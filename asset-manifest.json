@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/contactBookMountLocalStorage/static/css/main.7acaea2f.css",
+    "main.js": "/contactBookMountLocalStorage/static/js/main.e14cb651.js",
+    "index.html": "/contactBookMountLocalStorage/index.html",
+    "main.7acaea2f.css.map": "/contactBookMountLocalStorage/static/css/main.7acaea2f.css.map",
+    "main.e14cb651.js.map": "/contactBookMountLocalStorage/static/js/main.e14cb651.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7acaea2f.css",
+    "static/js/main.e14cb651.js"
+  ]
+}
